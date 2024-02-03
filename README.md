@@ -1,1 +1,3 @@
-# infinite-creations
+# Getting Started
+
+## Pre-requisites
